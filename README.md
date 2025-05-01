@@ -27,7 +27,7 @@
   - Specify if they are diabetic
   - Optionally add Tea with custom cream/sugar configurations
 
-## 🧠 Modified Java Files
+##  Modified Java Files
 - ✅ `Item.java` (unchanged)
 - ✅ `Packing.java` (unchanged)
 - ✅ `Wrapper.java` & `Bottle.java` (unchanged)
